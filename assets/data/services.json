@@ -1,0 +1,10 @@
+[
+  {"id":1,"name":"BSI Signature\nEvidence-Based","icon":"biotech","route":"/service/1","description":"Paket layanan unggulan BSI berbasis bukti ilmiah.","price":""},
+  {"id":2,"name":"Blood &\nUrine Tests","icon":"vaccines","route":"/service/2","description":"Pemeriksaan darah dan urin lengkap.","price":""},
+  {"id":3,"name":"IV Therapy","icon":"water_drop","route":"/service/3","description":"Terapi infus intravena untuk meningkatkan imunitas.","price":""},
+  {"id":4,"name":"Book\nAppointment","icon":"calendar_month","route":"/book-appointment","description":"Pesan janji temu dengan dokter.","price":""},
+  {"id":5,"name":"Chat Us","icon":"chat","route":"/chat","description":"Hubungi staf klinik BSI.","price":""},
+  {"id":6,"name":"Detox\nCalendar","icon":"medication","route":"/detox","description":"Jadwal program detox kesehatan.","price":""},
+  {"id":7,"name":"Educational\nTips","icon":"book","route":"/service/7","description":"Edukasi kesehatan dari para ahli BSI.","price":""},
+  {"id":8,"name":"Other","icon":"more_horiz","route":"/services","description":"Lihat semua layanan.","price":""}
+]

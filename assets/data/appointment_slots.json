@@ -1,0 +1,44 @@
+{
+    "slots": [
+        {
+            "id": 1,
+            "time": "08:00",
+            "available": true
+        },
+        {
+            "id": 2,
+            "time": "09:00",
+            "available": true
+        },
+        {
+            "id": 3,
+            "time": "10:00",
+            "available": true
+        },
+        {
+            "id": 4,
+            "time": "11:00",
+            "available": true
+        },
+        {
+            "id": 5,
+            "time": "13:00",
+            "available": true
+        },
+        {
+            "id": 6,
+            "time": "14:00",
+            "available": true
+        },
+        {
+            "id": 7,
+            "time": "15:00",
+            "available": true
+        },
+        {
+            "id": 8,
+            "time": "16:00",
+            "available": true
+        }
+    ]
+}

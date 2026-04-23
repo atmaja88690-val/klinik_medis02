@@ -1,0 +1,8 @@
+{
+"welcome": "Hello! Welcome to BSI International Clinic. How can we help you?",
+"responses": [
+{"keywords":["price","cost","rate"],"response":"For service pricing information, please check the Services menu."},
+{"keywords":["schedule","hours","open"],"response":"Our clinic is open Monday-Saturday from 8:00 AM to 4:00 PM."},
+{"keywords":["appointment","booking","appointment"],"response":"To book, please use the Appointments menu."}
+]
+}

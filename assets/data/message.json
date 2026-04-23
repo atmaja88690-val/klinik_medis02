@@ -1,0 +1,4 @@
+[
+  {"id":1,"title":"Appointment Confirmed","body":"Your appointment has been confirmed.","date":"2026-04-01","isRead":false},
+  {"id":2,"title":"Health Tip","body":"Remember to stay hydrated daily.","date":"2026-04-02","isRead":true}
+]
